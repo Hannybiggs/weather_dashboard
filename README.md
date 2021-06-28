@@ -4,7 +4,7 @@
 
 This application is a simple weather dashboard which shows the user the current weather for the city of their choice and a five day forecast. 
 
-<img src= "">
+<img src= "https://github.com/Hannybiggs/weather_dashboard/blob/main/weatherdashboarddemopic.png">
 
 ## How to Use:
 To use the user simple enters the desired city in the search box and presses enter. After the user presses enter, the current weather and five day forecast are displayed on the right hand side. Cities that the user entered are preserved in the search history and can also be clicked on again to show the weather instead of having to retype.
